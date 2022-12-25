@@ -1,0 +1,24 @@
+td{
+    width:100px;
+    height:100px;
+    background-color: white;
+    text-align: center;
+    font-size: 40px;
+    border-radius: 10px;
+
+    
+}
+table{
+    margin:20px auto;
+    border-radius: 10px;
+    color:black;
+   
+}
+
+body{
+    margin:14px;
+    padding:20px;
+    color:greenyellow;
+    text-align: center;
+    background:linear-gradient(to right ,rgba(0,0,0,.1),rgba(0,0,0,.9)),url(https://w0.peakpx.com/wallpaper/838/212/HD-wallpaper-3d-video-games-video-game-girls-video-game-characters-render-cgi-digital-art-claire-redfield-motorcycle-resident-evil-jacket.jpg);
+}
